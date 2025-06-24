@@ -1,3 +1,3 @@
-All about Machine Learning Tutorials
+All about Machine Learning Models
 
 
